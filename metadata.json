@@ -1,0 +1,12 @@
+{
+  "name": "Fridge Chef",
+  "description": "A warm, practical AI cook that turns your fridge photos or ingredient lists into doable meal ideas.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Image Analysis",
+    "Recipe Generation",
+    "Dietary Planning"
+  ]
+}
